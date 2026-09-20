@@ -2,7 +2,7 @@
 
 ## Live URL
 
-> **TODO**: Deploy and paste URL here.
+> **Live URL**: https://sanctum-sanctorum-yta3.onrender.com/
 
 Seed data includes 12 books and 4 members (Wong Li — supreme, Christine Palmer — master,
 Jonathan Pangborn — adept, Sara Lin — apprentice). Use any of their `id`s (1–4) to test
